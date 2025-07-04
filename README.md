@@ -37,7 +37,7 @@
 ## 📦 Installation (Optional for Local Use)
 
 ```bash
-git clone https://github.com/yourusername/savebae.git
+git clone https://github.com/shetty30/savebae.git
 cd savebae
 pip install -r requirements.txt
 streamlit run app.py
